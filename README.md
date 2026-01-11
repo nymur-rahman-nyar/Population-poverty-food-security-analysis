@@ -1,6 +1,9 @@
 # Project Description
 
-#### Data Used :
+Stack :
+pandas, Jupyter Notebook
+
+Data Used :
 
 **United Nations – World Population Prospects (2024 Revision)**
 
